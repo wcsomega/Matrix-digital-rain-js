@@ -1,0 +1,14 @@
+{
+  "name": "matrix-code-js",
+  "version": "1.0.0",
+  "description": "matrix code using html5 canvas and javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wcsomega",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.2.2"
+  }
+}
